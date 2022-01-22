@@ -85,7 +85,7 @@
                      <div class="row animate-box"
                          data-animate-effect="fadeInLeft">
                         <div class="about-desc">
-                           <h1>Vinay <span style="color: #FACD69">Somawat</span>
+                           <h1>Nitin <span style="color: #FACD69">Asthana</span>
                            </h1>
                            <p class="finalText">Hi, Welcome to my portfolio.<br>I’m a
                               software developer specialized in
