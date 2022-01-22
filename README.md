@@ -4,12 +4,12 @@
    <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <title>Vinay Somawat-Portfolio Webpage</title>
+      <title>Nitin Asthana-Portfolio Webpage</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="Portfolio webpage of Vinay Somawat" />
+      <meta name="description" content="Portfolio webpage of Nitin Asthana" />
       <meta name="keywords"
           content="portfolio,website,personal website,github,projects,computer science and engineering" />
-      <meta name="author" content="Vinay Somawat" />
+      <meta name="author" content="Nitin Asthana" />
       <!--Social Media icons-->
       <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -55,7 +55,7 @@
                       style="background-image: url(images/IMG_-wl1xai.jpg);">
                   </div>
                   <h1 id="colorlib-logo"><a
-                         href="./index.html">Vinay Somawat</a>
+                         href="./index.html">Nitin Asthana</a>
                   </h1>
                </div>
                <nav id="colorlib-main-menu" role="navigation" class="navbar"
@@ -88,12 +88,8 @@
                            <h1>Vinay <span style="color: #FACD69">Somawat</span>
                            </h1>
                            <p class="finalText">Hi, Welcome to my portfolio.<br>I’m a
-                              frontend developer specialized in
-                              efficient Angular & React applications
-                              that just work across all platforms and
-                              browsers. I care deeply about building
-                              interfaces that are usable and pleasant
-                              for the most number of people possible.
+                              software developer specialized in
+                              efficient Java applications.
                            </p>
                         </div>
                      </div>
@@ -182,17 +178,14 @@
                                        <i class="fa fa-code"></i>
                                     </div>
                                     <div class="timeline-label">
-                                       <h2><a href="#">Novopay Solutions Pvt.
-                                             Ltd.</a>
-                                          <span>June 2020 - Present</span>
+                                       <h2><a href="#">BNP Paribas
+                                             </a>
+                                          <span>Jan 2021 - Present</span>
                                        </h2>
                                        <p class="finalText"><strong>Software
                                              Engineer, SDE
-                                             Intern</strong><br>Supporting
-                                          client end team for AEPS, DMT, CMS
-                                          transactions & working on the
-                                          solutions for eKYC, onboarding
-                                          retailers.</p>
+                                             Intern</strong><br>Built various backoffices with the help of 
+                                                                Pega development tool.</p>
                                     </div>
                                  </div>
                               </article>
@@ -201,15 +194,6 @@
                                  <div class="timeline-entry-inner">
                                     <div class="timeline-icon color-1">
                                        <i class="fa fa-code"></i>
-                                    </div>
-                                    <div class="timeline-label">
-                                       <h2><a href="#">ThinkPedia LLP</a>
-                                          <span>May 2019 - June 2019</span>
-                                       </h2>
-                                       <p class="finalText"><strong>SDE
-                                             Intern</strong><br>Developed
-                                          Customer Web Application for social
-                                          media management from scratch.</p>
                                     </div>
                                  </div>
                               </article>
@@ -244,17 +228,15 @@
                                        <i class="fa fa-code"></i>
                                     </div>
                                     <div class="timeline-label">
-                                       <h2>Bachelors in Computer Science and
-                                          Engineering</h2>
-                                       <p><strong>GATE-2020</strong><br>Qualified.
-                                       </p>
-                                       <p class="finalText"><strong>National
+                                       <h2>Masters in Computer Application
+                                          </h2>
+                                       <p class="finalText"><strong>Vellore
                                              Institute of
                                              Technology,
                                              Warangal</strong><br>Courses
                                           undertaken DS, Algorithms, OS, DBMS,
                                           Networks, Distributed Computing, OOPS,
-                                          Computer Architecture.</p>
+                                          Cloud computing, Machine learning.</p>
                                     </div>
                                  </div>
                               </article>
@@ -265,15 +247,12 @@
                                        <i class="fa fa-user"></i>
                                     </div>
                                     <div class="timeline-label">
-                                       <h2>Intermediate</h2>
-                                       <p><strong>JEE Advanced, JEE Main,
-                                             BITSET</strong><br>Qualified.</p>
-                                       <p class="finalText"><strong>Board of
-                                             Secondary Education,
-                                             Rajasthan</strong><br>Courses
-                                          undertaken Physics, Chemistry and
-                                          Mathematics.<br>Scored 90.60% in 12th
-                                          State Board Examination.</p>
+                                       <h2>Bachelors in Computer Applications</h2>
+                                       <p class="finalText"><strong>Seth GL Bihani SD PG College,
+                                             Rajasthan</strong><br> Courses
+                                          undertaken DS, Algorithms, OS, DBMS,
+                                          Networks, Distributed Computing, OOPS,
+                                          Computer Architecture.</p>
                                     </div>
                                  </div>
                               </article>
@@ -301,41 +280,10 @@
                            connect with me, be it for some business or
                            innovation, or to simply say hello, don't
                            hesitate to send me an email at <strong><a
-                                  href="mailto: vinaysomawat40@gmail.com">vinaysomawat40@gmail.com</a></strong>
+                                  href="mailto: nitinasthana1999@gmail.com">nitinasthana1999@gmail.com</a></strong>
                         </p>
                      </div>
                      <div id="externalLinks" class="row">
-                     </div>
-                  </div>
-               </section>
-               <!---------------Footer------------->
-               <section class="colorlib-footer" data-section="footer"
-                   style="padding-bottom: 3em">
-                  <div class="colorlib-narrow-content">
-                     <div class="row">
-                        <div class="col-md-12">
-                           <div class="row row-bottom-padded-sm animate-box"
-                               data-animate-effect="fadeInLeft">
-                              <div class="hire">
-                                 <p style="text-align: center"><strong>If you
-                                       like my work and efforts, please consider
-                                       buying me a coffee.<br>Thank you for your
-                                       support!</strong></p>
-                                 <div style="text-align: center">
-                                    <a class="bmc-button" target="_blank"
-                                        href="https://www.buymeacoffee.com/r194dME8y"><img
-                                           src="images/BMC-btn-logo.svg"><span
-                                           class="ml-2">Buy me a
-                                          coffee</span></a>
-                                 </div>
-                                 <br>
-                                 <p class="text-center mb-0">
-                                    <strong>&copy; No Copyrights, feel free to
-                                       use this template.</strong>
-                                 </p>
-                              </div>
-                           </div>
-                        </div>
                      </div>
                   </div>
                </section>
